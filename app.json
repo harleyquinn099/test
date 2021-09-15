@@ -1,7 +1,7 @@
 {
     "name": "Pro Auto Filter Bot V2",
     "description": "Pro Auto Filter BoT V2 MoTect MRK_YT",
-    "logo": "https://telegra.ph/file/9e831d15da94deb56ef4c.png",
+    "logo": "https://telegra.ph/file/d6b0d58d639e88034933b.jpg",
     "keywords": [
         "Pro",
         "Auto",
@@ -14,11 +14,11 @@
     "success_url": "https://telegram.dog/mo_tech_yt",
     "env": {
         "APP_ID": {
-            "description": "Your APP ID From my.telegram.org or @MT_MyTelegramOrg_Bot",
+            "description": "Your APP ID From my.telegram.org",
             "value": ""
         },
         "API_HASH": {
-            "description": "Your API Hash From my.telegram.org or @MT_MyTelegramOrg_Bot",
+            "description": "Your API Hash From my.telegram.org",
             "value": ""
         },
         "BOT_TOKEN": {
@@ -26,7 +26,7 @@
             "value": ""
         },
         "C_ID_START": {
-            "description": "C_ID_START : Watch Tutorial Video😁",
+            "description": "C_ID_START : CHANNEL ID",
             "value": ""
         },
         "DB_URI": {
@@ -34,15 +34,15 @@
             "value": ""
         },
         "G_ID_START": {
-            "description": "G_ID_START : Watch Tutorial Video😁",
+            "description": "G_ID_START : GORUP ID",
             "value": ""
         },
         "JOIN_MAIN_CHANNEL": {
-            "description": "JOIN_MAIN_CHANNEL : Watch Tutorial Video😁",
+            "description": "JOIN_MAIN_CHANNEL : user name of your channel without @",
             "value": ""
         },
         "BOT_MASTER": {
-            "description": "MASTER_BOT : Watch Tutorial Video😁",
+            "description": "MASTER_BOT : OUR ID ",
             "value": "Skp_kp"
         },
         "TEXT_MEG_PH": {
